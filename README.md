@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/87750cad222766956073e.jpg" />
+<img src="https://telegra.ph/file/250694b733293bf4b70e2.png" />
 <a href="https://www.reddit.com/user">
   <img align="right" alt="Xluxz Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
